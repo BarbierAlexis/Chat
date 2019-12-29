@@ -1,0 +1,27 @@
+.card-img-overlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #f5b822;
+  font-size: 5vw;
+}
+
+.home-card {
+  max-height: 30%;
+  margin-top: 30px;
+}
+
+.little-card {
+  width: 50%;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  font-size: 4vw;
+  color: #ffffff;
+  background-color: #343a40 !important;
+}
+
+.little-card img {
+  width: 30%;
+  margin-top: 10px;
+}

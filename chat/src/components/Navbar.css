@@ -1,0 +1,14 @@
+.logo{
+  width: 45px;
+  height: 70px;
+}
+
+.navbar {
+  justify-content: space-between !important;
+  width: 100%;
+}
+
+.navbar-collapse {
+  width: 20% !important;
+}
+
